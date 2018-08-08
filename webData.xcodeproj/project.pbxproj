@@ -12,6 +12,7 @@
 		65FDDA6E211A9548000C7781 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65FDDA6C211A9548000C7781 /* Main.storyboard */; };
 		65FDDA70211A9549000C7781 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65FDDA6F211A9549000C7781 /* Assets.xcassets */; };
 		65FDDA73211A9549000C7781 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65FDDA71211A9549000C7781 /* LaunchScreen.storyboard */; };
+		65FDDA7B211AB062000C7781 /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FDDA7A211AB062000C7781 /* webViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		65FDDA6F211A9549000C7781 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65FDDA72211A9549000C7781 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65FDDA74211A9549000C7781 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65FDDA7A211AB062000C7781 /* webViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				65FDDA6A211A9548000C7781 /* ViewController.swift */,
 				65FDDA6C211A9548000C7781 /* Main.storyboard */,
 				65FDDA6F211A9549000C7781 /* Assets.xcassets */,
+				65FDDA7A211AB062000C7781 /* webViewController.swift */,
 				65FDDA71211A9549000C7781 /* LaunchScreen.storyboard */,
 				65FDDA74211A9549000C7781 /* Info.plist */,
 			);
@@ -137,6 +140,7 @@
 			files = (
 				65FDDA6B211A9548000C7781 /* ViewController.swift in Sources */,
 				65FDDA69211A9548000C7781 /* AppDelegate.swift in Sources */,
+				65FDDA7B211AB062000C7781 /* webViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
